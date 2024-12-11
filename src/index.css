@@ -1,0 +1,33 @@
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    text-align: center;
+    background-color: black;
+    padding: 10px;
+}
+.btn1{
+    padding: 6px 12px;
+    margin: 5px 2px;
+    border: none;
+}
+.btn2{
+    padding: 6px 12px;
+    margin: 5px 2px;
+    border: none;
+}
+.btn3{
+    padding: 6px 12px;
+    margin: 5px 2px;
+    border: none;
+}
+.btn4{
+    padding: 6px 12px;
+    margin: 5px 2px;
+    border: none;
+}
+.head{
+    color: white;
+    font-size: 30px;
+}
